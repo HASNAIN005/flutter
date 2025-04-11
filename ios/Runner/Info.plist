@@ -45,5 +45,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+        <string>Required to scan documents and capture images</string>
+        <key>NSMicrophoneUsageDescription</key>
+        <string>Required for video recording functionality</string>
+        <key>NSPhotoLibraryUsageDescription</key>
+        <string>Required to save scanned documents to your gallery</string>
+
+        <!-- Keep existing entries below -->
+       <key>CADisableMinimumFrameDurationOnPhone</key>
+       <true/>
+       <key>UIApplicationSupportsIndirectInputEvents</key>
+       <true/>
 </dict>
 </plist>
