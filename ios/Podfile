@@ -18,4 +18,4 @@ def flutter_root
   File.dirname(File.dirname(generated_xcode_build_settings_path))
 end
 
-load File.join(flutter_root, '.ios', 'Flutter', 'podhelper.rb')
+load File.join(flutter_root, 'ios', 'Flutter', 'podhelper.rb')
