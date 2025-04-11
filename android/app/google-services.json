@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979948311492",
+    "project_id": "scanxpert-d0155",
+    "storage_bucket": "scanxpert-d0155.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979948311492:android:26b2d3961c287eab2fca91",
+        "android_client_info": {
+          "package_name": "com.example.id_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1c_Ooc9B4PIiHl3VXkOGz2q5vGmCC9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
