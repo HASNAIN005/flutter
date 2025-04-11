@@ -22,7 +22,7 @@ def flutter_root
 end
 
 # Load Flutter-specific pod helper
-load File.join(flutter_root, '.ios', 'Flutter', 'podhelper.rb')
+load File.join(flutter_root, 'ios', 'Flutter', 'podhelper.rb')
 
 target 'Runner' do
   use_frameworks!
